@@ -141,7 +141,7 @@ export class Signup extends Component<object, StateInterface> {
     render() {
         return (
             <Box className={"container border border-primary rounded my-5"}>
-                <Typography variant="h2" className='text-center' >SIGN UP FORM</Typography>
+                <Typography variant="h2" className='text-center' >REGISTRATION FORM</Typography>
                 <hr />
                 <Box className={"d-flex flex-column align-items-center"}>
                     <TextField
